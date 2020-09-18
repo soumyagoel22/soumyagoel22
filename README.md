@@ -1,4 +1,4 @@
- <h3 align="center">Hey 😊, I'm <em><strong>Soumya Goel</strong></em></h3>
+ <h1 align="center">Hey 😊, I'm <em><strong>Soumya Goel</strong></em></h1>
 
 
 ![Profile views](https://gpvc.arturio.dev/soumyagoel22)  
