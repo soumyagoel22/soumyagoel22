@@ -5,7 +5,7 @@
 
 Skills: REACT / JAVA
 
-- 💬 Ask me about Reactjs 
+- 💬 Ask me about: Reactjs 
 - 📫 How to reach me: soumyagoel22@gmail.com 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soumyagoel22)](https://github.com/anuraghazra/github-readme-stats)
