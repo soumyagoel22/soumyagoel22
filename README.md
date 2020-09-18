@@ -1,4 +1,4 @@
- <h3>Hey 😊, I'm <em><strong>Soumya Goel</strong></em></h3>
+ <h3 align="center">Hey 😊, I'm <em><strong>Soumya Goel</strong></em></h3>
 
 
 ![Profile views](https://gpvc.arturio.dev/soumyagoel22)  
@@ -12,7 +12,7 @@ Skills: REACT / JAVA
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=soumyagoel22&show_icons=true)  
 
-[<center><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'></center>](https://www.linkedin.com/in/soumyagoel22/)   
+[<p align="center"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'></p>](https://www.linkedin.com/in/soumyagoel22/)   
 
 
 
