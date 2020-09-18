@@ -1,7 +1,8 @@
 <div style="text-align:center"><h3>Hey 😊, I'm <strong><em>Soumya Goel</em></strong></h3></div>
                                                          
 <hr>                                                         
-                                                        
+                                     <div style="text-align:center">This text will be centered.
+<p>So will this paragraph.</p></div>                   
 ![Profile views](https://gpvc.arturio.dev/soumyagoel22)                                                           
 
 Skills: <strong>REACT / JAVA</strong>
